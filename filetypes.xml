@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping ext="kt" type="Native" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".env.example" type="PLAIN_TEXT" />
       <mapping pattern=".env.testing" type="PLAIN_TEXT" />
